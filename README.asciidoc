@@ -1,6 +1,8 @@
 A simple Java EE 7 Sample
 =========================
 
+Petit message de dédicace pour léo du 93
+
 This is a trivial Java EE 7 sample.
 
 . Download WildFly 8.2 from
@@ -21,4 +23,3 @@ This is a trivial Java EE 7 sample.
 . Alternatively to deploy RELEASE version (e.g. 2.0) to Nexus without GitHub integration
 .. `mvn versions:set -DnewVersion=2.0`
 .. `mvn deploy -P release`
-
